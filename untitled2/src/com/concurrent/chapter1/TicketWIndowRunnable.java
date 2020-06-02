@@ -18,6 +18,8 @@ public class TicketWIndowRunnable implements Runnable {
                 e.printStackTrace();
             }
         }
+        System.out.println("something is update!");
+        System.out.println("something is update now ");
         System.out.println("hello git this is update for 模板方法");
         System.out.println("some thing is update after hello git");
 
