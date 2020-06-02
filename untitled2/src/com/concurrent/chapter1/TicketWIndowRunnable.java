@@ -19,6 +19,7 @@ public class TicketWIndowRunnable implements Runnable {
             }
         }
         System.out.println("hello git this is update for 模板方法");
+        System.out.println("some thing is update after hello git");
 
     }
 
